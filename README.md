@@ -6,6 +6,8 @@ This repository implements a production-grade **Repo Explainer Agent** built on 
 
 ## 🏗️ Architecture & Three Pillars
 
+<img width="1536" height="1024" alt="ChatGPT Image Jun 14, 2026, 01_22_54 AM" src="https://github.com/user-attachments/assets/c016bd4a-d265-4db2-a272-ae241cbd4e84" />
+                                       Architecture diagram and overall flow 
 This codebase is structured around the three pillars requested in the Proptimise AI challenge, designed to run locally with strict security boundaries.
 
 ### 🤖 1. The Working Agent (`repo_explainer/agent.py`)
