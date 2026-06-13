@@ -1,4 +1,4 @@
-# Proptimise AI - Repo Explainer Agent & Optimizer Harness
+# Repo Explainer Agent & Optimizer Harness
 
 This repository implements a production-grade **Repo Explainer Agent** built on **Anthropic's official Claude Agent SDK** for Python. It is designed to map codebase structures and answer complex architectural questions, backed by a robust **evaluation harness** and an **automated prompt optimizer harness**.
 
